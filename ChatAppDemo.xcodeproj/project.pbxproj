@@ -14,6 +14,7 @@
 		D96881E7279ED13B009F791B /* TitleRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96881E6279ED13B009F791B /* TitleRow.swift */; };
 		D96881EA279ED32E009F791B /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96881E9279ED32E009F791B /* Message.swift */; };
 		D96881EC279ED42E009F791B /* MessageBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96881EB279ED42E009F791B /* MessageBubble.swift */; };
+		D96881EE27A0242A009F791B /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D96881ED27A0242A009F791B /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		D96881E6279ED13B009F791B /* TitleRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleRow.swift; sourceTree = "<group>"; };
 		D96881E9279ED32E009F791B /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 		D96881EB279ED42E009F791B /* MessageBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageBubble.swift; sourceTree = "<group>"; };
+		D96881ED27A0242A009F791B /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D96881E5279ED12A009F791B /* Components */,
 				D96881DB279ED041009F791B /* Assets.xcassets */,
 				D96881DD279ED041009F791B /* Preview Content */,
+				D96881ED27A0242A009F791B /* Extensions.swift */,
 			);
 			path = ChatAppDemo;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D96881DA279ED040009F791B /* ContentView.swift in Sources */,
+				D96881EE27A0242A009F791B /* Extensions.swift in Sources */,
 				D96881EA279ED32E009F791B /* Message.swift in Sources */,
 				D96881EC279ED42E009F791B /* MessageBubble.swift in Sources */,
 				D96881D8279ED040009F791B /* ChatAppDemoApp.swift in Sources */,
